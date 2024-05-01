@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Turakhia</h1>
 <h3 align="center">Associate Software Trainee @TatvaSoft</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshturakhia" alt="harshturakhia" /></a> </p>
-
 - 🔭 I’m currently working on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
 
 - 🌱 I’m currently learning **.NET Core & .NET MVC**
@@ -23,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshturakhia&show_icons=true&locale=en&layout=compact" alt="harshturakhia" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshturakhia&" alt="harshturakhia" /></p>
