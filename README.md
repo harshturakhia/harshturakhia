@@ -17,5 +17,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshturakhia&show_icons=true&locale=en&layout=compact" alt="harshturakhia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harshturakhia&show_icons=true&locale=en" alt="harshturakhia" /></p>
-
