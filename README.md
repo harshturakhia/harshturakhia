@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Turakhia</h1>
 <h3 align="center">Associate Software Trainee @TatvaSoft</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshturakhia&label=Profile%20views&color=0e75b6&style=flat" alt="harshturakhia" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshturakhia" alt="harshturakhia" /></a> </p>
 
 - 🌱 I’m currently learning **.NET Core & .NET MVC**
 
