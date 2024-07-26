@@ -2,9 +2,9 @@
 <h3 align="center"> Trainee Software Enginner @TatvaSoft from Jan-2024</h3>
 
 
-- 🔭 I’m recently working on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
+- 🔭 I’m recently worked on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
 
-- 🌱 I’ve learnt **.NET & .NET MVC**
+- 🌱 I’ve learnt **.NET & .NET MVC duing my internship period**
 
 - 🌱 I’m currently learning **React.js Nodejs & Nestjs**
 
