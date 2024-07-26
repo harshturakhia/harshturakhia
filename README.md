@@ -4,7 +4,9 @@
 
 - 🔭 I’m currently working on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
 
-- 🌱 I’m currently learning **.NET Core & .NET MVC**
+- 🌱 I’ve learnt **.NET & .NET MVC**
+
+- - 🌱 I’m currently learning **React.js Nodejs & Nestjs**
 
 - 💬 Ask me about **React, .NET, PostgreSQL or any programming related stuff**
 
