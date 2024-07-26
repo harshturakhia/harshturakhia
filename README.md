@@ -6,7 +6,7 @@
 
 - 🌱 I’ve learnt **.NET & .NET MVC**
 
-- - 🌱 I’m currently learning **React.js Nodejs & Nestjs**
+- 🌱 I’m currently learning **React.js Nodejs & Nestjs**
 
 - 💬 Ask me about **React, .NET, PostgreSQL or any programming related stuff**
 
