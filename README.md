@@ -2,13 +2,13 @@
 <h3 align="center"> Trainee Software Enginner @TatvaSoft from Jan-2024</h3>
 
 
-- 🔭 I’m currently working on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
+- 🔭 I’m recently working on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
 
 - 🌱 I’ve learnt **.NET & .NET MVC**
 
 - 🌱 I’m currently learning **React.js Nodejs & Nestjs**
 
-- 💬 Ask me about **React, .NET, PostgreSQL or any programming related stuff**
+- 💬 Ask me about **React, Nodejs, MongoDB, RestAPI, .NET MVC, PostgreSQL etc...!**
 
 - If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **harshturakhia2002@gmail.com**
 
