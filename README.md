@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Turakhia</h1>
-<h3 align="center"> Trainee Software Enginner @TatvaSoft from Jan-2024</h3>
+<h3 align="center"> Trainee Software Enginner @TatvaSoft </h3>
 
 
 - 🔭 I’m recently worked on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
