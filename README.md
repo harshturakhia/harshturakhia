@@ -3,12 +3,13 @@
 
 
 - 🔭 I’m recently worked on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
+- 🔭 I’m currently workeing on Warehouse Management System
 
-- 🌱 I’ve learnt **.NET & .NET MVC duing my internship period**
+- 🌱 I’ve learnt **.NET Core duing my internship period**
 
 - 🌱 I’m currently learning **React.js Nodejs & Nestjs**
 
-- 💬 Ask me about **React, Nodejs, MongoDB, RestAPI, .NET MVC, PostgreSQL etc...!**
+- 💬 Ask me about **React, Angular, NextJs, Nodejs, NestJs MongoDB, RestAPI, .NET Core, PostgreSQL etc...!**
 
 - If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **harshturakhia2002@gmail.com**
 
