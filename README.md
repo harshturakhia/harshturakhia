@@ -7,8 +7,6 @@
 
 - 🌱 I’ve learnt **.NET Core duing my internship period**
 
-- 🌱 I’m currently learning **React.js Nodejs & Nestjs**
-
 - 💬 Ask me about **React, Angular, NextJs, Nodejs, NestJs MongoDB, RestAPI, .NET Core, PostgreSQL etc...!**
 
 - If you're interested in collaborating on a project or exploring potential partnership opportunities, please feel free to reach out to me at **harshturakhia2002@gmail.com**
