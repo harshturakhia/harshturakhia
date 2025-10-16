@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Turakhia</h1>
-<h3 align="center"> Trainee Software Enginner @TatvaSoft </h3>
-
-
-- 🔭 I’m recently worked on [HalloDoc](https://github.com/harsh-turakhia/HalloDoc)
-- 🔭 I’m currently workeing on Warehouse Management System
+<h3 align="center"> Associate Software Enginner @TatvaSoft </h3>
 
 - 🌱 I’ve learnt **.NET Core duing my internship period**
 
